@@ -1,11 +1,13 @@
-# Hola 👋, Soy [Tu Nombre]
+# Hi there! 👋 I'm Samuel UN
 
-## Desarrollador Full Stack
+## 🚀 Full Stack Developer
+I'm a passionate Full Stack Developer specializing in building robust and scalable web applications. My expertise spans frontend and backend development, with a strong focus on creating efficient and user-friendly solutions.
 
-### 🔧 Tecnologías y Herramientas
+---
 
-#### Frontend
+### 🔧 Technologies & Tools
 
+#### 🖥 Frontend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
@@ -39,8 +41,7 @@
   </div>
 </div>
 
-#### Backend
-
+#### 🔙 Backend
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -68,8 +69,7 @@
   </div>
 </div>
 
-#### Databases & Data Formats
-
+#### 🗄 Databases
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
@@ -91,8 +91,7 @@
   </div>
 </div>
 
-#### Development Tools
-
+#### 🛠 Development Tools
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
@@ -114,8 +113,7 @@
   </div>
 </div>
 
-#### Additional Tools
-
+#### 🔄 Version Control
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://trello.com/" target="_blank" rel="noreferrer">
@@ -138,7 +136,6 @@
 </div>
 
 #### Version Control
-
 <div style="display: flex; flex-wrap: wrap; justify-content: center;">
   <div style="margin: 10px; text-align: center;">
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -153,3 +150,9 @@
     <p>GitHub</p>
   </div>
 </div>
+
+### 📫 Get in Touch
+- **GitHub:** [Link](https://github.com/samuel-un)
+- **LinkedIn:** [Link](https://www.linkedin.com/in/samuel-un/)
+
+I'm always open to new opportunities and collaborations. Feel free to reach out!
