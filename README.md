@@ -1,9 +1,155 @@
-<h1 align="center">Hi 👋, I'm Samuel UN</h1>
-<h3 align="center">A passionate frontend developer from Spain</h3>
+# Hola 👋, Soy [Tu Nombre]
 
-<h3 align="left">Connect with me: samuelutr00@gmail.com</h3>
-<p align="left">
-</p>
+## Desarrollador Full Stack
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+### 🔧 Tecnologías y Herramientas
+
+#### Frontend
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+    </a>
+    <p>HTML5</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+    </a>
+    <p>CSS3</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+    </a>
+    <p>JavaScript</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+    </a>
+    <p>React</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+    </a>
+    <p>Bootstrap</p>
+  </div>
+</div>
+
+#### Backend
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
+    </a>
+    <p>Java</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+    </a>
+    <p>PHP</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://laravel.com" target="_blank" rel="noreferrer">
+      <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
+    </a>
+    <p>Laravel</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+    </a>
+    <p>NodeJS</p>
+  </div>
+</div>
+
+#### Databases & Data Formats
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
+    </a>
+    <p>MySQL</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
+    </a>
+    <p>MongoDB</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
+      <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="40" height="40"/>
+    </a>
+    <p>SQL</p>
+  </div>
+</div>
+
+#### Development Tools
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
+    </a>
+    <p>Eclipse</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
+    </a>
+    <p>VS Code</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
+      <img src="https://www.phpmyadmin.net/static/images/logo.png" alt="PHPMyAdmin" width="40" height="40"/>
+    </a>
+    <p>PHPMyAdmin</p>
+  </div>
+</div>
+
+#### Additional Tools
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://trello.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
+    </a>
+    <p>Trello</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
+    </a>
+    <p>Figma</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+    </a>
+    <p>Linux</p>
+  </div>
+</div>
+
+#### Version Control
+
+<div style="display: flex; flex-wrap: wrap; justify-content: center;">
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+    </a>
+    <p>Git</p>
+  </div>
+  <div style="margin: 10px; text-align: center;">
+    <a href="https://github.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
+    </a>
+    <p>GitHub</p>
+  </div>
+</div>
