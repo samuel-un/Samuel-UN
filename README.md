@@ -1,158 +1,70 @@
-# Hi there! 👋 I'm Samuel UN
+# 👋 Hi, I'm Samuel Utrilla
 
-## 🚀 Full Stack Developer
-I'm a passionate Full Stack Developer specializing in building robust and scalable web applications. My expertise spans frontend and backend development, with a strong focus on creating efficient and user-friendly solutions.
+<p align="center">
+  <img src="https://res.cloudinary.com/dgbngcvkl/image/upload/v1756768115/Banner_perfil_cvoqjy.png" alt="Samuel Utrilla | Fullstack Web Developer" />
+</p>
+
+💻 Fullstack Web Developer | Sevilla, Spain  
+🎓 Senior Technician in Web Application Development  
+🚀 Specialized in **Laravel + React/Vite** and cloud deployment (Vercel, Railway)  
 
 ---
 
-### 🔧 Technologies & Tools
+## ⚡ About Me
+- 🔭 Currently building **NextMovie** and **Gimnasio-Laravel**  
+- 🌱 Always improving my skills in **Laravel**, **React**, and **cloud deployments**  
+- 🎯 Focused on writing **clean code** and delivering scalable solutions  
+- 💡 Open to collaborate on exciting projects and open-source  
 
-#### 🖥 Frontend
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
-    </a>
-    <p>HTML5</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
-    </a>
-    <p>CSS3</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-    </a>
-    <p>JavaScript</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-    </a>
-    <p>React</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
-    </a>
-    <p>Bootstrap</p>
-  </div>
-</div>
+---
 
-#### 🔙 Backend
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-    </a>
-    <p>Java</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
-    </a>
-    <p>PHP</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://laravel.com" target="_blank" rel="noreferrer">
-      <img src="https://laravel.com/img/logomark.min.svg" alt="Laravel" width="40" height="40"/>
-    </a>
-    <p>Laravel</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://nodejs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
-    </a>
-    <p>NodeJS</p>
-  </div>
-</div>
+## 🔧 Tech Stack
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white&style=for-the-badge)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge)
+![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=white&style=for-the-badge)
+![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=for-the-badge)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge)
+![NodeJS](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
 
-#### 🗄 Databases
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-    </a>
-    <p>MySQL</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-    </a>
-    <p>MongoDB</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://en.wikipedia.org/wiki/SQL" target="_blank" rel="noreferrer">
-      <img src="https://img.icons8.com/color/48/000000/database.png" alt="SQL" width="40" height="40"/>
-    </a>
-    <p>SQL</p>
-  </div>
-</div>
+---
 
-#### 🛠 Development Tools
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.eclipse.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" alt="Eclipse" width="40" height="40"/>
-    </a>
-    <p>Eclipse</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="Visual Studio Code" width="40" height="40"/>
-    </a>
-    <p>VS Code</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.phpmyadmin.net/" target="_blank" rel="noreferrer">
-      <img src="https://www.phpmyadmin.net/static/images/logo.png" alt="PHPMyAdmin" width="40" height="40"/>
-    </a>
-    <p>PHPMyAdmin</p>
-  </div>
-</div>
+## 📌 Featured Projects
 
-#### 🔄 Version Control
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://trello.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" alt="Trello" width="40" height="40"/>
-    </a>
-    <p>Trello</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
-    </a>
-    <p>Figma</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
-    </a>
-    <p>Linux</p>
-  </div>
-</div>
+### 🎬 [NextMovie](https://github.com/samuel-un/nextmovie)
+Fullstack platform to manage movies & series lists.  
+- **Stack:** React + Vite + Laravel + MySQL  
+- **Demo:** [Frontend (Vercel)](https://nextmovie.vercel.app) | [Backend (Railway)](https://nextmovie-production.up.railway.app)  
 
-#### Version Control
-<div style="display: flex; flex-wrap: wrap; justify-content: center;">
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
-    </a>
-    <p>Git</p>
-  </div>
-  <div style="margin: 10px; text-align: center;">
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="GitHub" width="40" height="40"/>
-    </a>
-    <p>GitHub</p>
-  </div>
-</div>
+<p align="center">
+  <img src="https://res.cloudinary.com/dgbngcvkl/image/upload/v1756764426/Captura_de_pantalla_2025-09-02_000354_mcxwy6.png" alt="NextMovie Home" width="500"/>
+</p>
 
-### 📫 Get in Touch
-- **GitHub:** [Link](https://github.com/samuel-un)
-- **LinkedIn:** [Link](https://www.linkedin.com/in/samuel-un/)
+---
 
-I'm always open to new opportunities and collaborations. Feel free to reach out!
+### 🏋️‍♂️ [Gimnasio-Laravel](https://github.com/samuel-un/gimnasio-laravel)
+Gym management platform for subscriptions and users.  
+- **Stack:** Laravel + Blade + TailwindCSS + MySQL  
+- **Demo:** [Railway Deployment](https://gimnasio-laravel.up.railway.app)  
+
+<p align="center">
+  <img src="https://res.cloudinary.com/dgbngcvkl/image/upload/v1756764437/Captura_de_pantalla_2025-09-02_000457_hqis2a.png" alt="Gimnasio Laravel" width="500"/>
+</p>
+
+---
+
+## 🌱 Currently
+- 📚 Improving **Laravel + React**  
+- ☁️ Learning **Cloud Deployments** (Vercel, Railway, Docker basics)  
+- 🎮 Fun fact: Passionate about tech and cars (Audi & VW enthusiast 🚗)  
+
+---
+
+## 📫 Connect with me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/samuel-un/)  
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/samuel-un)  
+[![Manfred](https://img.shields.io/badge/Manfred_Profile-6A4EFA?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTYiIGhlaWdodD0iMTYiIHZpZXdCb3g9IjAgMCAzMiAzMiIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjE2IiByPSIxNiIgZmlsbD0iI2ZmZiIvPjxwYXRoIGQ9Ik0xNiA0YTYgNiAwIDEgMCAwIDEyIDYgNiAwIDAgMCAwLTEyem0wIDE4YTYgNiAwIDEgMCAwLTEyIDYgNiAwIDAgMCAwIDEyWiIgZmlsbD0iIzZhNGVmYSIvPjwvc3ZnPg==)](https://mnf.red/32bcdc29-2389-4320-8339-c773437851e4)
